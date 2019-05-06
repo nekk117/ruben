@@ -1,0 +1,22 @@
+newmtl _84x96_Slider_Door_Black_V1:Ebony_mat
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.12 0.12 0.12
+Tf 1.00 1.00 1.00
+map_Kd marcove.jpg
+Ni 1.50
+newmtl _84x96_Slider_Door_Black_V1:Silver_mat
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.70 0.70 0.70
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.50
+newmtl _84x96_Slider_Door_Black_V1:Window_Mat
+illum 4
+Kd 0.86 0.86 0.86
+Ka 0.86 0.86 0.86
+Tf 0.20 0.20 0.20
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00

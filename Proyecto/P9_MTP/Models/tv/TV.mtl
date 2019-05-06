@@ -1,0 +1,25 @@
+newmtl mesatv:mesatv:wire_006135113
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.01 0.01 0.01
+Tf 1.00 1.00 1.00
+map_Kd mesapa.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl mesatv:mesatv:wire_115115115
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd mesatv.jpg
+Ni 1.00
+newmtl mesatv:mesatv:wire_225198087
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mesap.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
